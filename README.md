@@ -5,7 +5,7 @@
 * 군필여부 : 공군 병장 만기 전역
 * 취미 : 
 * 이메일 : solpark.dev@gmail.com
-* GitHub : 
+* GitHub : github.com/solpark-dev
 
 
 
