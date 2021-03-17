@@ -6,6 +6,7 @@
 * 취미 : 
 * 이메일 : solpark.dev@gmail.com
 * GitHub : [github.com/solpark-dev](https://github.com/solpark-dev)
+* Linkedin : [linkedin.com/in/hansol-park](https://www.linkedin.com/in/hansol-park-6aba9615b/)
 
 
 
