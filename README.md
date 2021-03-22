@@ -1,6 +1,8 @@
 # 소개
 
 
+![image url](resuemphoto.jpg)
+
 * 이름 : 박한솔
 * 군필여부 : 공군 병장 만기 전역
 * 취미 : 
@@ -15,7 +17,7 @@
 1. Test
 2. Test2
 
-![image url](resuemphoto.jpg)
+
 
 
 * Item 1
