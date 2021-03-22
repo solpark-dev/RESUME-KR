@@ -15,7 +15,7 @@
 1. Test
 2. Test2
 
-![image url](url here)
+![image url](resuemphoto.jpg)
 
 
 * Item 1
