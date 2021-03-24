@@ -17,6 +17,22 @@
 
 # 소개
 
+# 사용 기술
+
+## Backend
+
+* Java
+* Python
+
+## Database
+* MySQL
+
+## Process
+
+* 커뮤니케이션 - Slack / JANDI
+* 버전관리 - Git
+* 이슈관리 - Github / Trello
+
 # 프로젝트
 
 
@@ -42,3 +58,12 @@
 def foo():
     if not bar:
         return True
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+> 
+
+I think you should use an
+`<addr>` element here instead.
